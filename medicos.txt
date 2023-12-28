@@ -1,3 +1,4 @@
 "Lista de médicos" 
 Cardiólogo
 Fisioterapeuta 
+Osteopata 
