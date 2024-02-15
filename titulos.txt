@@ -1,3 +1,4 @@
 "Lista de títulos" 
 "Trofeo de la Cerámica" 
 "Copa intertoto" 
+"Copa al mérito"
